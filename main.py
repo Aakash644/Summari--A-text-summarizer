@@ -5,7 +5,7 @@ import pyperclip as pc
 
 
 
-openai.api_key="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"
+openai.api_key="apikey"
 # completion=openai.ChatCompletion.create(
 #     model="gpt-3.5-turbo",
 #     messages=[{"role":"user","content":'''summarise into 100 words\n

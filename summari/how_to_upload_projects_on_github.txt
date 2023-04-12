@@ -1,8 +1,0 @@
-*git config --global user.name Aakash kumar
-*git config --global user.email "Aakash.21BT@dpgitm.ac.in"
-git init
-git add .
-git commit -m"initial commit"
-git status"
-git remote add origin {sshlink} 
-git push origin master
